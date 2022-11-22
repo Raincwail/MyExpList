@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuAnimeFilterAll"
+        android:title="Viewed" />
+    <item
+        android:id="@+id/menuAnimeFilterViewed"
+        android:title="Viewed" />
+    <item
+        android:id="@+id/menuAnimeFilterInProcess"
+        android:title="In Process" />
+    <item
+        android:id="@+id/menuAnimeFilterDropped"
+        android:title="Dropped" />
+</menu>

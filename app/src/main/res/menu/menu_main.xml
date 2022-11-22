@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item android:title="Anime"
+        android:icon="@drawable/ic_baseline_anime_24"
+        android:id="@+id/anime_activity"/>
+    <item android:title="Manga"
+        android:icon="@drawable/ic_baseline_manga_24"
+        android:id="@+id/manga_activity"/>
+    <item android:title="Games"
+        android:icon="@drawable/ic_baseline_games_24"
+        android:id="@+id/games_activity"/>
+</menu>
