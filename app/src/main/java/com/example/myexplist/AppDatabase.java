@@ -1,7 +1,6 @@
 package com.example.myexplist;
 
 import androidx.room.Database;
-import androidx.room.Query;
 import androidx.room.RoomDatabase;
 
 import com.example.myexplist.anime_resources.Anime;

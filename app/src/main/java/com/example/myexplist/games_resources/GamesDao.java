@@ -1,13 +1,10 @@
 package com.example.myexplist.games_resources;
 
-import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
 import androidx.room.Delete;
 import androidx.room.Insert;
 import androidx.room.Query;
 import androidx.room.Update;
-
-import com.example.myexplist.anime_resources.Anime;
 
 import java.util.List;
 

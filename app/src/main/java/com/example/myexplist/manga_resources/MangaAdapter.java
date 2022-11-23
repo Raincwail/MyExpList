@@ -10,8 +10,6 @@ import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.myexplist.R;
-import com.example.myexplist.anime_resources.Anime;
-import com.example.myexplist.anime_resources.UpdateAnimeActivity;
 
 import java.util.List;
 

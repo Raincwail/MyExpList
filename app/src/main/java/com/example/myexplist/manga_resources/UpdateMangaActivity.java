@@ -1,9 +1,7 @@
 package com.example.myexplist.manga_resources;
 
 import android.app.AlertDialog;
-import android.app.Fragment;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.graphics.Color;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -14,12 +12,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.FragmentTransaction;
 
 import com.example.myexplist.DatabaseClient;
-import com.example.myexplist.MainActivity;
 import com.example.myexplist.R;
-import com.example.myexplist.anime_resources.UpdateAnimeActivity;
 
 public class UpdateMangaActivity extends AppCompatActivity {
 

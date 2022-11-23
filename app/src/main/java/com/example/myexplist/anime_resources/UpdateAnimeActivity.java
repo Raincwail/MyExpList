@@ -2,7 +2,6 @@ package com.example.myexplist.anime_resources;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
-import android.content.Intent;
 import android.graphics.Color;
 import android.os.AsyncTask;
 import android.os.Bundle;
@@ -15,7 +14,6 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.myexplist.DatabaseClient;
-import com.example.myexplist.MainActivity;
 import com.example.myexplist.R;
 
 public class UpdateAnimeActivity extends AppCompatActivity {

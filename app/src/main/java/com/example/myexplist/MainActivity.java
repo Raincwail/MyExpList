@@ -1,15 +1,10 @@
 package com.example.myexplist;
 
-import com.example.myexplist.anime_resources.AddAnimeActivity;
-import com.example.myexplist.anime_resources.Anime;
 import com.example.myexplist.databinding.ActivityMainBinding;
 
-import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
-import android.view.View;
-import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -20,8 +15,6 @@ import androidx.fragment.app.FragmentTransaction;
 import com.example.myexplist.anime_resources.AnimeFragment;
 import com.example.myexplist.games_resources.GamesFragment;
 import com.example.myexplist.manga_resources.MangaFragment;
-
-import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements MainActivityInterface {
 

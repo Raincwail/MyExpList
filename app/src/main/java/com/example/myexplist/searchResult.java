@@ -2,7 +2,6 @@ package com.example.myexplist;
 
 import androidx.room.ColumnInfo;
 
-
 public class searchResult {
 
     @ColumnInfo(name = "isContact")

@@ -4,7 +4,6 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.inputmethod.EditorInfo;
-import android.widget.EdgeEffect;
 import android.widget.EditText;
 import android.widget.TextView;
 
@@ -13,9 +12,6 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.myexplist.anime_resources.Anime;
-import com.example.myexplist.anime_resources.AnimeAdapter;
-import com.example.myexplist.anime_resources.AnimeFragment;
-import com.example.myexplist.databinding.ActivityMainBinding;
 
 import java.util.List;
 
